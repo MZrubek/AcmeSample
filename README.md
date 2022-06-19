@@ -1,4 +1,4 @@
-# Sample application for Platform Science, Acme shipping routing.
+# Sample application: Acme shipping routing
 by Mike Zrubek, June 17, 2022
 
 
