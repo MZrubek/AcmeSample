@@ -12,6 +12,8 @@ My environment was:
 - Android Studio ArcticFox 3.1
 - java 11.0.10, embedded JDK
 
+To download this project, click the green Code drop-down button, download per your preference to your local copy, build, and run.
+
 
 ## Design Approach
 
