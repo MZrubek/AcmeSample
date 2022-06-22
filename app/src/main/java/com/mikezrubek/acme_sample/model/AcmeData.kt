@@ -2,7 +2,6 @@ package com.mikezrubek.acme_sample.model
 
 /**
  * Created by Mike Zrubek, 6/17/22.
- * Copyright (C) 2019 MIZR Corporation. ALL RIGHTS RESERVED.
  */
 data class AcmeData(var shipments: List<String> = emptyList(),
                     var drivers: List<String> = emptyList(),

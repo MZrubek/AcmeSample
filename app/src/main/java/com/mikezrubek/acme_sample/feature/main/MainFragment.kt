@@ -9,10 +9,8 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.mikezrubek.acme_sample.R
-import com.mikezrubek.acme_sample.model.AcmeData
 import com.mikezrubek.acme_sample.model.Deliveries
 import com.mikezrubek.acme_sample.model.Delivery
-import com.mikezrubek.acme_sample.model.Driver
 import com.mikezrubek.acme_sample.viewmodel.DeliveriesViewModel
 import kotlinx.android.synthetic.main.main_fragment.*
 
