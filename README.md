@@ -1,4 +1,4 @@
-# Sample application for Platform Science, Acme shipping routing.
+# Sample application: Acme Shipment Routing
 by Mike Zrubek, June 17, 2022
 
 
@@ -11,6 +11,8 @@ Minimum SDK 25; build/target SDK 31
 My environment was:
 - Android Studio ArcticFox 3.1
 - java 11.0.10, embedded JDK
+
+To download this project, click the green Code drop-down button, download per your preference to your local copy, build, and run.
 
 
 ## Design Approach
